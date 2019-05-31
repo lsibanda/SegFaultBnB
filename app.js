@@ -17,7 +17,6 @@ var nodemailer = require('nodemailer');
 var async = require('async');
 var authRoutes = require('./routes/auth-routes');
 var crypto = require('crypto');
-var stripe = require('stripe')('sk_test_UEQKfXbrPV26Uz9kTQxFFKFG00Du1Lj3ua');
 mongoose.Promise = global.Promise;
 
 var passport = require('passport'),
