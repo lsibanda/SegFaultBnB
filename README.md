@@ -42,4 +42,4 @@ Until a user has confirmed a booking request, that space can still be booked for
 * Work out how to use GitHub for group projects
 * Express play-around
 * Rating part on the client side
-* Adding the fetures we promised to the client
+* Adding the features we promised to the client
